@@ -1,4 +1,4 @@
-## 效果预览
+## 点击gif图片右上角进行跳转,预览效果
 
 [![viteSearchMeal.th.gif](https://z4a.net/images/2023/03/31/viteSearchMeal.th.gif)](https://z4a.net/image/VHctTE)
 
