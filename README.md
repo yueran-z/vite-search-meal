@@ -1,3 +1,6 @@
+## 效果预览
+![viteSearchMeal.gif](https://z4a.net/images/2023/03/31/viteSearchMeal.gif)
+
 ## api
 https://www.themealdb.com/api.php
 
